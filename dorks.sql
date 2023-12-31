@@ -1,11 +1,3 @@
-Join Our forum: Crax.Pro
-
-Our Tutorials: Crax.Tube
-
-Tele: T.me/craxpro
-
-FB: facebook.com/groups/1516960345218522
-
 index of /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 index of /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 
 index of /vendor/phpunit/Util/PHP/eval-stdin.php 
